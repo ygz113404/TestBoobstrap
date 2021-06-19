@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+html,body{
+  height: 100%;
+  width: 100%;
+}
+.navbar-nav{
+
+
+}
+.navbar-nav li {
+  margin-left: 30px;
+  color: crimson;
+}
+.nav-item  {
+  font-size: 20px;
+font-family: 'Roboto', sans-serif;
+}
+.navbar-brand{
+
+}
+h1{
+  font-size: 80px;
+font-family: 'Roboto', sans-serif;
+  Color: white ;
+}
+h2{
+    font-size: 40px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+#benkimim{
+  padding: 120px 0 ;
+}
+.yazı{
+  border-left:  10px solid black;
+  border-right: 10px solid black;
+  text-align: center;
+
+}
+.yazı h3,{
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+
+}
+.yazı p{
+  font-size: 20px;
+}
+.port-top h3{
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+.port-top{
+  text-align: center;
+}
+#port{
+background-color: grey;
+
+padding-top: 120px;
+padding-bottom: 70px;
+
+}
+.card{
+border-style: none;
+
+}
+.port-content .row{
+  margin-bottom: 30px;
+}
+#Contact{
+
+  padding-top: 120px;
+  padding-bottom: 70px;
+
+}
